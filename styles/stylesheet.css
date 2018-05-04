@@ -1,0 +1,29 @@
+#heading-jumbo {
+    height: 60vh;
+    color: white;
+    background: linear-gradient(to bottom right, rgb(231, 59, 231), blueviolet, rgb(109, 24, 246));
+}
+
+#jumbo-second {
+    height: 30vh;
+    color: white;
+    background: linear-gradient(to bottom right, rgb(109, 24, 246), blueviolet, red);
+}
+
+#lotsSpace {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 5vh;
+    padding-right: 5vh; 
+}
+
+.navbar {
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+ }
+
+ .jumbotron {
+    margin-top: 0px;
+    
+ }
