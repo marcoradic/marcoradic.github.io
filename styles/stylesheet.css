@@ -1,7 +1,7 @@
 #heading-jumbo {
     height: 60vh;
     color: white;
-    background: linear-gradient(to bottom right, rgb(109, 24, 246), blueviolet, lightblue );
+    background: linear-gradient(to bottom right, rgb(51, 9, 241), blueviolet, lightblue );
 }
 
 #jumbo-second {
@@ -22,7 +22,7 @@
     background: linear-gradient(to bottom right, blueviolet, blanchedalmond );
 }
 
-#lotsSpace {
+.lotsSpace {
     padding-top: 10vh;
     padding-bottom: 10vh;
     padding-left: 5vh;
@@ -35,7 +35,20 @@
     border-color: transparent;
  }
 
+ @media only screen and (max-width: 575px) {
+    .navbar {
+        background-color: rgba(255, 255, 255, 0.5);
+        
+        border-color: transparent;
+        color: black;
+    }
+}
+
  .jumbotron {
     margin-top: 0px;
-    
+    border-radius: 0px;
+ }
+
+ #unilink:active, #unilink:hover, #unilink {
+     color: white;
  }
