@@ -1,13 +1,13 @@
 #heading-jumbo {
     height: 60vh;
     color: white;
-    background: linear-gradient(to bottom right, rgb(51, 9, 241), blueviolet, lightblue );
+    background: linear-gradient(to bottom right,  rgb(0, 28, 70), rgb(1, 126, 126), rgb(248, 207, 145));
 }
 
 #jumbo-second {
     height: 30vh;
     color: white;
-    background: linear-gradient(to bottom right, lightblue, coral);
+    background: linear-gradient(to bottom right, rgb(22, 138, 216), rgb(30, 169, 187), coral);
 }
 
 #jumbo-third {
@@ -19,7 +19,7 @@
 #jumbo-four {
     height: 30vh;
     color: white;
-    background: linear-gradient(to bottom right, blueviolet, blanchedalmond );
+    background: linear-gradient(to bottom right, blanchedalmond, rgb(73, 0, 190));
 }
 
 .lotsSpace {
