@@ -52,3 +52,7 @@
  #unilink:active, #unilink:hover, #unilink {
      color: white;
  }
+
+ .btn-logo:hover, .btn-logo:active {
+    color:white;
+ }
