@@ -1,23 +1,23 @@
 #heading-jumbo {
-    height: 60vh;
+    padding: 100px 100px 100px 100px;
     color: white;
     background: linear-gradient(to bottom right,  rgb(0, 28, 70), rgb(1, 126, 126), rgb(248, 207, 145));
 }
 
 #jumbo-second {
-    height: 30vh;
+    padding: 100px;
     color: white;
     background: linear-gradient(to bottom right, rgb(22, 138, 216), rgb(30, 169, 187), coral);
 }
 
 #jumbo-third {
-    height: 30vh;
+    padding: 100px;
     color: white;
     background: linear-gradient(to bottom right, coral, blueviolet );
 }
 
 #jumbo-four {
-    height: 30vh;
+    padding: 100px;
     color: white;
     background: linear-gradient(to bottom right, blanchedalmond, rgb(73, 0, 190));
 }
